@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wach/MyFirstMinimalApi/MyFirstMinimalApi.csproj": {}
+    "/Users/wach/Documents/Dev/Github/testazure/MyFirstMinimalApi.csproj": {}
   },
   "projects": {
-    "/Users/wach/MyFirstMinimalApi/MyFirstMinimalApi.csproj": {
+    "/Users/wach/Documents/Dev/Github/testazure/MyFirstMinimalApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wach/MyFirstMinimalApi/MyFirstMinimalApi.csproj",
+        "projectUniqueName": "/Users/wach/Documents/Dev/Github/testazure/MyFirstMinimalApi.csproj",
         "projectName": "MyFirstMinimalApi",
-        "projectPath": "/Users/wach/MyFirstMinimalApi/MyFirstMinimalApi.csproj",
+        "projectPath": "/Users/wach/Documents/Dev/Github/testazure/MyFirstMinimalApi.csproj",
         "packagesPath": "/Users/wach/.nuget/packages/",
-        "outputPath": "/Users/wach/MyFirstMinimalApi/obj/",
+        "outputPath": "/Users/wach/Documents/Dev/Github/testazure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wach/.nuget/NuGet/NuGet.Config"
